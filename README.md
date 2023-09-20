@@ -13,8 +13,9 @@ It can convey the user's intention and evolve into future work such as digital a
 ### ■ Motivation
 Beyond simple communication like text or speech, next-generation communication systems capable of conveying rich prosody, expressiveness and identity are gaining attention. <br/>
 Through this, users in next-generation digital environments like VR will be able to share and empathize with various emotions. <br/>
-Emotions can also be analyzed for medical purposes from a person's voice. <br/>
-It has the potential to evolve into a system that can convey the feelings of patients who find it difficult to express their emotions. <br/>
+This project can also be utilized for medical purposes. <br/>
+It is possible to develop an application that enables the free expression of thoughts for patients who find it challenging to convey their emotions. <br/>
+Based on this project, it can be utilized in conjunction with research areas such as computer vision research focused on generating images or videos of a user's face based on their emotional state, as well as brain-computer interface research that directly decodes user intentions from brain signals. <br/>
 
 ## 3. Dataset Description
 
