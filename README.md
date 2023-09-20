@@ -15,7 +15,7 @@ Beyond simple communication like text or speech, next-generation communication s
 Through this, users in next-generation digital environments like VR will be able to share and empathize with various emotions. <br/>
 This project can also be utilized for medical purposes. <br/>
 It is possible to develop an application that enables the free expression of thoughts for patients who find it challenging to convey their emotions. <br/>
-Based on this project, it can be utilized in conjunction with research areas such as Computer Vision (CV) focused on generating images or videos of a user's face based on their emotional state, as well as Brain-Computer Interface (BCI) that directly decodes user intentions from brain signals. <br/>
+Based on this project, it can be utilized in conjunction with research areas such as Computer Vision (CV) focused on generating images or videos of a user's face based on their emotional state, and Brain-Computer Interface (BCI) that directly decodes user intentions from brain signals. <br/>
 
 ## 3. Dataset Description
 
