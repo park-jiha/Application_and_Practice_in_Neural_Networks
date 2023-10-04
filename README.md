@@ -24,7 +24,7 @@ Based on this project, it can be utilized in conjunction with research areas suc
 - Since audio information contains a mixture of various frequencies and holds extensive data, it is crucial to extract features that represent the distinctive characteristics of the audio rather than using the raw data directly. Data preprocessing and feature extraction are essential, as the method used to extract features from the data can have a significant impact on the performance of the model. Representative techniques include Mel-Spectrogram and MFCC (Mel-Frequency Cepstral Coefficients). <br/>
 ### ■ Information
 - Number of sentence classes: 2 ('Kids are talking by the door', 'Dogs are sitting by the door')
-- Number of datasets: 1050 (train : val : test = 630 : 210 : 210 = 6 : 2 : 2)
+- Number of audio data: 1050 (train : val : test = 630 : 210 : 210 = 6 : 2 : 2)
 - The types of datasets provided: audio files (.wav)
 - Number of emotional classes: 8
   - Neutral
