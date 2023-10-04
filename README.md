@@ -40,6 +40,6 @@ Based on this project, it can be utilized in conjunction with research areas suc
 - Reference <br/>
 S. R. Livingstone, and F. A. Russo, “The ryerson audio-visual database of emotional speech and song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English,” PloSone, Vol. 13, No. 5, 2017, pp. e0196391.
 
-### Contact Information
+### ※ Contact Information
 - Phone : 010-5277-1347
-- Email : jiha_park@korea.ac,kr
+- Email : jiha_park@korea.ac.kr
